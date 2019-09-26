@@ -1,8 +1,8 @@
-.FrontPage {
+.page {
     background-color: bisque;
 }
 
-.front_page_title {
+.general_title {
     color: burlywood;
     font-size: 50px;
     text-align: center;
@@ -13,7 +13,7 @@
     margin-bottom: 30px;
 }
 
-.front_page_border {
+.border {
     width: 50%;
     margin-left: auto;
     margin-right: auto;
@@ -25,11 +25,11 @@
 }
 
 
-.front_page_image {
+.image {
     width: 100%;
 }
 
-.MainTape {
+.tape {
     margin-left: 15%;
     width: 70%;
     border: 10px solid burlywood;
@@ -43,4 +43,21 @@
     margin-left: 25%;
     margin-top: 20px;
     margin-bottom: 20px;
+}
+
+.form {
+    margin-left: 10%;
+    margin-top: 20px;
+    border: 2px solid gray;
+    width: 150px;
+    height: 20px;
+}
+
+.img_form {
+    margin-left: 10%;
+    margin-top: 20px;
+    background-color: white;
+    border: 2px solid gray;
+    width: 150px;
+    height: 20px;
 }
